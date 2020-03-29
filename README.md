@@ -14,3 +14,5 @@ https://github.com/idrcorner/Flutter-CRUD-phpMyAdmin
 https://github.com/codigoalphacol/tiendaFlutterMysql
 
 https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/
+
+https://azmind.com/bootstrap-4-tutorial-one-page-website/
