@@ -16,3 +16,11 @@ https://github.com/codigoalphacol/tiendaFlutterMysql
 https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/
 
 https://azmind.com/bootstrap-4-tutorial-one-page-website/
+
+==============================================WP=========================================================
+https://secondlinethemes.com/display-custom-post-types-wordpress/
+https://github.com/technext/listrace
+https://www.tychesoftwares.com/creating-custom-api-endpoints-in-the-wordpress-rest-api/
+https://afterimagedesigns.com/wp-bootstrap-starter/components/
+https://www.udemy.com/user/abul-hossain/
+https://github.com/ranjanpandey2006/html5blank
