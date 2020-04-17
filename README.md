@@ -197,3 +197,204 @@ https://github.com/ranjanpandey2006/html5blank
 </html>
 
 ========================
+Advocats
+---------------
+
+
+
+ <div class="text-center">
+    <h2><strong>Committee Members</strong></h2>
+    <h4>Name of office bearer of CAC - central action committee of all odisha bar association </h4><br>
+  </div>
+  <div class="row slideanim">
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Ashok Kumar Dash</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate Sundargargh, Convener</strong></p>
+		  <h3>+919437187834</h3>
+        </div>
+      </div>      
+    </div>     
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Promod Kumas Dash</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate Sambalpur</strong></p>
+		  <h3>Co-Convener</h3>
+        </div>
+      </div>      
+    </div>       
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Niranjan Tripathy</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate Sambalpur, General Secretary</strong></p>
+		  <h3>+919439892172</h3>
+        </div>
+      </div>      
+    </div>
+
+	<div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Prasanna Padhi</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate of Nuapada district</strong></p>
+		  <h3>Joint Convener</h3>
+        </div>
+      </div>      
+    </div>     
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Sureshwar Mishra</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate Sambalpur, Member of CAC</strong></p>
+		  <h3>+919437348049</h3>
+        </div>
+      </div>      
+    </div>       
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Satyanaran Panda</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate Sambalpur, Member of CAC</strong></p>
+		  <h3>+919437050349</h3>
+        </div>
+      </div>      
+    </div> 
+	
+	<div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Promod Churia</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>Advocate Kuchinda</strong></p>
+		  <h3>Member of CAC</h3>
+        </div>
+      </div>      
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>Bijitendriya Pradhan</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>President District Bar Association Sambalpur</strong></p>
+		  <h3>+919437083871</h3>
+        </div>
+      </div>      
+    </div>	
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h2>All Bar Presidents</h2>
+        </div>
+        <div class="panel-body">
+          <p><strong>District Bar</strong></p>
+		  <h3>Joint Convener</h3>
+        </div>
+      </div>      
+    </div>
+    
+  </div>
+  
+   <h2><strong>Supporters</strong></h2><br>
+  
+    
+  <div class="row slideanim">
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Pravin Singhdeo +919437137234</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Reena Trivedi  +919937007617</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Satyanarayan Panda  +919437050349</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Chandrakanta Mohanty  +919437137041</div>
+			</div>
+		 </div>
+		 
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Rangeya Sarangi +919437220157</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Saroj Kumar Buxi +919937136362</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Bansidhara Sahu +919437737008</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Sujeet Mishra +919437136851</div>
+			</div>
+		 </div>
+		 
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Manoranjan Panda +919090409933</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Antaryami Panigrahi +919437668752</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Prashanta Kar +919437219188</div>
+			</div>
+		 </div>
+		 <div class="col-sm-3 col-xs-12">
+			<div class="panel panel-success">
+			  <div class="panel-body">Debendra Satpathy  +919437418223</div>
+			</div>
+		 </div>
+  </div>
+  
+  <h3><strong>History Of Sambalpur Bar Association</strong></h3><br>
+      <p>In 1886 we find an advocate of Sambalpur K.Mitra appeared on behalf of Mitrabhanu Sai to end his exile.It seems that he is the first Indian advocate of SBP.
+In 1900 we find there were 6 Indian Advocates at SBP- <strong>Jogendra Nath Sen, Bamapada Chatterjee, Debendra Nath Mitra, Vijaya Chandra Mazumdar,K.P.Mitra and Chunnilal Dubey. </strong>Chandra Sekhar Behera is the first native or son of soil to join SBP Bar as an Advocate on 23rd September 1901. <strong>Sambalpur Bar Association was formed on 23rd December 1908.</strong>In 1918 the total no. of Advocates at SBP was 21, among them 7 were Sambalpuri speaking namely <strong>Chandra Sekhar Behera,Ram Narayan Mishra, Parsuram Mishra, Biswaksen Mishra, Balunkeswar Mishra, Natbar Gadtia,Gokul Chandra Babu.</strong> Later on Biswaksen Mishra and Balunkeswar Mishra moved to Bargarh to start the family of Advocates there, as more joined at SBP. The first ever Advocate of Bolangir Kapileswar Pr. Nanda after getting B.L in 1927 joined Sambalpur Bar. After 3 years of learning he moved to Bargarh and finally went to Bolangir. He along with other 5 Advocates and 2 Muktiars formed Bolangir Bar Association. In 1934 the no. of Advocates at Sambalpur was more than 50 in that year.
+	  </p>
+	  </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-grey">
+  <div class="row">
+    
+    <div class="col-sm-12">
+      <h2><strong>Overview</strong></h2>
+      <h4><strong>Mission:</strong> Our mission is to establish permanent high court bench in western Odisha for the welfare of the people.</h4><br>
+      <p><strong>Background:</strong> Central government constituted Justice Jaswant Singh commission to inquire and fix the criteria for creation of permanent bench of original high court in any other place and the commission has given some criteria.
+		<br>Western Odisha satisfies the criteria's of the commision hence Central Action Committee has made the request to the state and
+		central government for the establishment of Permanent High Court Bench in western Odisha.
+	  </p>
+---------------
